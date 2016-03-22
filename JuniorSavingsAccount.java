@@ -1,7 +1,7 @@
 //subclass or child class or derived class
 public class JuniorSavingsAccount extends SavingsAccount{
 	
-	String guardianName,name;
+	String guardianName,name,price;
 	
 	public JuniorSavingsAccount() {
 		//super();	

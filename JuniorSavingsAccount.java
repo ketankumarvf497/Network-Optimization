@@ -17,7 +17,7 @@ public class JuniorSavingsAccount extends SavingsAccount{
 	
 	public void display(){
 			
-		System.out.println("Name        :"+this.name);
+		System.out.println("Name        :"+this.ketanname);
 		System.out.println("Account No  :"+super.accountNo);
 		System.out.println("Status      :"+super.status);
 		System.out.println("Balance     :"+super.balance);
